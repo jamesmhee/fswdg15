@@ -1,0 +1,167 @@
+[
+  {
+    "name": "ACER NOTEBOOK NITRO AN515-55-52HQ BLACK V.Normal",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel Core i5-10300H",
+      "gpu": "NVIDIA GeForce GTX 1650Ti (4GB GDDR6)",
+      "ram": "16 GB DDR4 (1*16GB)",
+      "storage": "512 GB PCIe NVMe SSD",
+      "os": "Window",
+      "brand": "ACER"
+    },
+    "url": "https://www.bnn.in.th/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/A/c/Acer-Notebook-NITRO-AN515-55-52HQ-Black-1-1619201075.jpg",
+    "price": 31900
+  },
+  {
+    "name": "ACER NOTEBOOK NITRO AN515-55-52HQ BLACK V.Recommend",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel Core i5-10300H",
+      "gpu": "NVIDIA GeForce GTX 1650Ti (4GB GDDR6)",
+      "ram": "16 GB DDR4 (1*16GB)",
+      "storage": "512 GB PCIe NVMe SSD",
+      "os": "Window",
+      "brand": "ACER"
+    },
+    "url": "https://www.bnn.in.th/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/A/c/Acer-Notebook-NITRO-AN515-55-52HQ-Black-1-1619201075.jpg",
+    "price": 31900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook Asus Zenbook Duo UX481FL-HJ096T (Celestial Blue)",
+    "detail": {
+      "monitor": "14.0 inch",
+      "cpu": "Intel i5-10210U",
+      "gpu": " NVIDIA GeForce MX 250 Graphics",
+      "ram": "RAM LPDDR3 16GB",
+      "storage": "SSD 512GB",
+      "os": "Window",
+      "brand": "ASUS"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0131626/A0131626OK_ORI_1.jpg",
+    "price": 32900,
+    "isRecommended": false
+  },
+  {
+    "name": "Notebook Asus ROG Strix G15 GL542LI-HN053T (Black W/LightBar)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel i5-10300H",
+      "gpu": " GeForce GTX 1650 Ti",
+      "ram": "8GB DDR4",
+      "storage": "512GB SSD ",
+      "os": "Window",
+      "brand": "ASUS"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0131621/A0131621_s.jpg",
+    "price": 26900,
+    "isRecommended": false
+  },
+  {
+    "name": "Notebook Asus ROG Strix Scar 15 G543QS-HF097T (Black)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "AMD Ryzen 9 5900HX",
+      "gpu": " NVIDIA GeForce RTX 3080",
+      "ram": "DDR4 16GB",
+      "storage": "SSD 1TB",
+      "os": "Window",
+      "brand": "ASUS"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0134670/A0134670OK_ORI_1.jpg",
+    "price": 84900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook MSI GF63 Thin 10SC-249TH (Black)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel® Core™ i5 processor",
+      "gpu": "NVIDIA GeForce GeForce® GTX 1650",
+      "ram": "DDR4 16GB",
+      "storage": "SSD 1TB",
+      "os": "Window",
+      "brand": "MSI"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0136092/A0136092OK_ORI_1.jpg",
+    "price": 27900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook Acer Predator PH315-53-79SU/T001 (Black)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel Core i7-10750H Processor",
+      "gpu": "NVIDIA GeForce RTX 2060 Graphics",
+      "ram": "RAM DDR4 16GB",
+      "storage": "SSD 1TB",
+      "os": "Window",
+      "brand": "ACER"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0132148/A0132148OK_ORI_1.jpg",
+    "price": 45900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook Acer Nitro AN515-52-5069/T002 (Black)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel Core i Processors Gen 8th ",
+      "gpu": "NVIDIA GeForce GTX 10SERIES",
+      "ram": "RAM DDR4 16GB",
+      "storage": "SSD 1TB",
+      "os": "Window",
+      "brand": "ACER"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0116393/A0116393OK_ORI_1.jpg",
+    "price": 45900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook Lenovo Legion7 15IMH5 82BC001TTA (Slate Grey)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "Intel Core i7-10750H Processor",
+      "gpu": "NVIDIA GeForce RTX 2060 Max-Q Graphics",
+      "ram": "RAM DDR4 16GB",
+      "storage": "SSD 1TB",
+      "os": "Window",
+      "brand": "LENOVO"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0135857/A0135857OK_ORI_1.jpg",
+    "price": 69900,
+    "isRecommended": true
+  },
+  {
+    "name": "Notebook DELL Inspironl Gaming G5SE-W56656100ATHW10 (Silver)",
+    "detail": {
+      "monitor": "15.6 inch",
+      "cpu": "AMD Ryzen 7 4800H Processor",
+      "gpu": "AMD Radeon RX 5600M Graphics",
+      "ram": "RAM DDR4 8GB",
+      "storage": "SSD 512 GB",
+      "os": "Window",
+      "brand": "DELL"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0132423/A0132423OK_ORI_1.jpg",
+    "price": 69900,
+    "isRecommended": false
+  },
+  {
+    "name": "Notebook Lenovo Legion7 16ACHG6 82N6000YTA (Strom Grey)",
+    "detail": {
+      "monitor": "16.0 inch",
+      "cpu": "AMD Ryzen 9 5900HX Processor",
+      "gpu": "NVIDIA GeForce RTX 3080 Graphics",
+      "ram": "RAM DDR4 32GB",
+      "storage": "SSD 2TB",
+      "os": "Window",
+      "brand": "LENOVO"
+    },
+    "url": "https://img.advice.co.th/images_nas/pic_product4/A0135827/A0135827OK_ORI_1.jpg",
+    "price": 89900,
+    "isRecommended": false
+  }
+
+]

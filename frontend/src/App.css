@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    -webkit-animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bg-image {
+  background: url(https://media.discordapp.net/attachments/790236733437378622/833393375691800646/unknown.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  background: white !important;
+}
+
+.section-login {
+  width: 100%;
+  height: 90%;
+  position: absolute;
+}
+
+/* BG Home  */
+#section-bg {
+  background-color: beige;
+  /* background-image:  linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url('https://media.discordapp.net/attachments/453542849573814282/811878985306341426/145a4477029515.5c7bcf54cc7f2.png'); */
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+#section-bg .content-bg {
+  height: 100vh;
+}
+@media screen and (min-width: 601px) {
+  div.overlay {
+    margin-left: 8%;
+    margin-bottom: 2%;
+  }
+
+  div.content-bg {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.overlay {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+    font-size: 2em;
+  }
+
+  div.viewaboutspacex {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+    font-size: 2em;
+    display: flex;
+  }
+}
+
+.button-admin {
+  background-color: #474747;
+  color: white;
+}
+
+.button-admin:hover {
+  background-color: #252525;
+  color: white;
+}
